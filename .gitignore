@@ -1,3 +1,9 @@
+matrix.csv
+matrix_district.csv
+zones.csv
+test.py
+.DS_Store
+.idea/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
